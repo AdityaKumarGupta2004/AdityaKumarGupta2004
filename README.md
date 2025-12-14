@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Kumar Gupta
 
 💻 **Full Stack Developer @ QONTENTT AI**  
-🎓 **CSE Undergraduate **  
+🎓 **CSE Undergraduate**  
 📍 **I am From India  🇮🇳**
 
 I am a dedicated Computer Science undergraduate with a strong passion for software engineering, full-stack development, and problem solving. I enjoy building scalable web applications, exploring backend systems, and continuously improving my DSA skills.
