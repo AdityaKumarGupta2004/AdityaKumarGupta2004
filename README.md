@@ -49,10 +49,6 @@ I am a dedicated Computer Science undergraduate with a strong passion for softwa
 
 ---
 
-> 👉 Check repositories for detailed implementations.
-
----
-
 ## 📊 GitHub Stats
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKumarGupta2004&show_icons=true&theme=tokyonight)
