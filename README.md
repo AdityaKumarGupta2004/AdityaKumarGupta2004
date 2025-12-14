@@ -61,6 +61,8 @@ I am a dedicated Computer Science undergraduate with a strong passion for softwa
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdityaKumarGupta2004&theme=tokyonight)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaKumarGupta2004&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ## 🌐 Connect With Me
