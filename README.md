@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Kumar Gupta
 
-💻 **Full Stack Developer @ QONTENTT AI**  
+💻 **Full Stack Developer**  
 🎓 **CSE Undergraduate**  
 📍 **I am From India  🇮🇳**
 
