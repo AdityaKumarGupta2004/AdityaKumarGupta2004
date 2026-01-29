@@ -36,4 +36,4 @@ I am a dedicated Computer Science undergraduate with a strong passion for softwa
 
 ## 🎯 Career Objective
 
-Seeking opportunities as a **Full Stack Developer / Software Engineering Intern** where I can apply my technical skills, learn from industry experts, and contribute to impactful real-world projects.
+Seeking opportunities as a **Full Stack Developer / Software Engineering** where I can apply my technical skills, learn from industry experts, and contribute to impactful real-world projects.
