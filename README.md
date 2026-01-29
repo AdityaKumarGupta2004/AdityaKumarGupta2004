@@ -8,41 +8,6 @@ I am a dedicated Computer Science undergraduate with a strong passion for softwa
 
 ---
 
-## 🚀 Tech Stack & Skills
-
-### 🧑‍💻 Programming Languages
-- Java  
-- JavaScript  
-- TypeScript
-- C
-- Python
-
-### 🌐 Full Stack Development
-- MERN Stack (MongoDB, Express, React, Node.js)
-- REST APIs & GraphQL
-- React Native (Mobile Apps)
-- Next
-
-### 🗄️ Databases
-- MongoDB  
-- SQL  
-
-### ⚙️ Tools & Platforms
-- Docker  
-- Git & GitHub  
-- Firebase
-- Supabase 
-- Postman  
-
-### 📘 Core CS
-- Advance Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOPs)
-- Computer Network
-- Database
-- Architecture
-
----
-
 ## 💼 Current Experience
 
 **Full Stack Developer – QONTENTT AI, Inc**
