@@ -11,6 +11,7 @@ I am a dedicated Computer Science undergraduate with a strong passion for softwa
 ## 💼 Current Experience
 
 **Full Stack Developer – QONTENTT AI, Inc**
+
 **Software Engineer Intern - TriSys IT**
 
 ---
